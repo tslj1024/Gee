@@ -11,3 +11,9 @@
 - 设计`上下文(Context)`，封装 Request 和 Response ，提供对 JSON、HTML 等返回类型的支持。
 - 动手写 Gee 框架的第二天，**框架代码140行，新增代码约90行**。
 
+
+
+### 3. 前缀树路由
+
+- 使用 Trie 树实现动态路由(dynamic route)解析。
+- 支持两种模式`:name`和`*filepath`，**代码约150行**。
